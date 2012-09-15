@@ -1,5 +1,7 @@
 {
     "name": "default",
+    "version": "0.9",
+    "type": "theme",
     "viewEngine": {
         "name": "mustache",
         "version": "@>=0.4.0"
